@@ -1,25 +1,56 @@
+body{
+  float:
+  margin:0;
+  background-color:blue;
+  text-align:center;
+}
+
+header{
+  width:400px;
+  text-align:center;
+  margin: 50px;
+  padding: 30px;
+  border-color:black;
+  background-color:aquamarine;
+}
+
+main{
+  width:400px;
+  margin: 50px;
+  padding: 30px;
+  background-color: pink;
+  text-align:center;
+}
+
+hr{
+  width: 500px;
+}
+
+footer {
+  margin: 50px;
+  padding: 30px;
+  width:400px;
+  text-align: center;
+}
+
 h1 {
   font-family:'Courier New', Courier, monospace;
   color: blueviolet;
-  text-align:center;
 }
 
 h2, h3{
   color: brown;
-  text-align: center;
 }
-body {
-  background-color: beige;
-}
+
 a:link {color: blue;}
 a:visited {color:green;}
 a:hover {color:pink;}
 a:active {color:purple;}
 
-p{
+p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 15px;
 }
 .selfie{
-  border:1px solid blue;
+  border:3px solid black;
 }
