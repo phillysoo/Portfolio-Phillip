@@ -1,0 +1,25 @@
+h1 {
+  font-family:'Courier New', Courier, monospace;
+  color: blueviolet;
+  text-align:center;
+}
+
+h2, h3{
+  color: brown;
+  text-align: center;
+}
+body {
+  background-color: beige;
+}
+a:link {color: blue;}
+a:visited {color:green;}
+a:hover {color:pink;}
+a:active {color:purple;}
+
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 15px;
+}
+.selfie{
+  border:1px solid blue;
+}
