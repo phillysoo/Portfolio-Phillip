@@ -8,7 +8,8 @@ body{
 }
 
 header{
-  margin:1000;
+  margin:auto;
+  width:400px;
   padding: 50px;
   background-color:#306BAC;
   text-align:center;
@@ -17,10 +18,10 @@ header{
 }
 /*containing the main elements*/ 
 article{
-  width:auto;
+  width:400px;
   margin: auto;
-  padding: 30px;
-  background-color:#306BAC;
+  padding: 50px;
+  background-color:#6F9CEB;
   text-align:center;
 }
 /* add styles to the horizontal rulers*/
@@ -32,11 +33,11 @@ body hr{
 }
 /*boxing the footer*/
 footer{
-  width:auto;
+  width:400px;
   margin:auto;
   padding: 5px 50px;
   text-align: left;
-  background-color:#306bac;
+  background-color:#98B9F2;
 }
 
 /*set font style for two headers.*/
